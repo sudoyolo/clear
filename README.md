@@ -1,4 +1,10 @@
 # CLEAR
+CLEAR stands for Climate-affected Loss Enhancement and Adaptive Restoration.     
+You can install the requirements used to setup the project using:     
+
+```bash
+pip install -r requirements.txt
+```
 
 This project demonstrates model inference using Streamlit. You can run the apps using:
 
@@ -7,6 +13,7 @@ streamlit run app_modular.py
 # or
 streamlit run app_tanet.py
 ```
+Note: You can train the models on your own using *.ipynb files to get your own .pth files. 
 
 ---
 
