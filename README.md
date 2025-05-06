@@ -1,7 +1,3 @@
-Here's a well-organized and cleanly formatted version of your README:
-
----
-
 # CLEAR
 
 This project demonstrates model inference using Streamlit. You can run the apps using:
