@@ -37,5 +37,7 @@ Note: You can train the models on your own using *.ipynb files to get your own .
 
 ## Demos & Presentations
 
-* 🎥 `ATDL_Video_720p.zip`: Contains the video recording of the presentation.
-* 📹 `demo.mp4`: Streamlit app demo for `app_modular.py` and `app_tanet.py`.
+* 🎥 `Video Demonstartion.mp4`: Video Demonstration for the presentation. Link: https://drive.google.com/file/d/1OqC-4BTfL92Bllm7ZHmv-w5FMCpucj7B/view?usp=sharing     
+* 🎥 `demo.mp4`: Streamlit app demo for `app_modular.py` and `app_tanet.py`. Link: https://drive.google.com/file/d/1S-RrodTNXMILLEoecDs90Tu5eXkbFkrg/view?usp=sharing     
+* 🗄️ `Rain100 Dataset`: Link: https://www.kaggle.com/datasets/bshaurya/rain-dataset      
+* 🗄️ `RESIDE-6K Dataset`: Link: https://www.kaggle.com/datasets/kmljts/reside-6k      
